@@ -8,7 +8,7 @@
 | Codex Windows live workflow | เคยทดสอบบนเครื่องผู้จัดทำพร้อม browser/Sheets tools ของเครื่องนั้น ไม่ใช่การรับประกันเครื่องผู้รับ |
 | Claude Code CSV workflow | เตรียม installation path และ prompt ตามเอกสาร ไม่ได้รันใน Claude Code จริง |
 | Antigravity CSV workflow | เตรียม installation path และ prompt ตามเอกสาร ไม่ได้รันใน Antigravity จริง |
-| macOS/Linux | คำสั่งและ path รองรับโดยออกแบบ ต้องดูผล CI และทดลองเครื่องจริงก่อนอ้าง live readiness |
+| Python บน Windows/macOS/Linux | CI ผ่าน 6 ชุดบน Python 3.11/3.13 ดู run ที่อ้างใน TESTING; ไม่ได้ทดสอบ live agent/Chrome/Sheets บนทุกระบบ |
 | Chrome/Sheets | optional ขึ้นกับ integration ไม่รวมมาตรการเปิด/เข้าถึง browser แบบข้ามสิทธิ์ |
 
 รายงาน HTML เป็น snapshot ที่มีเวลาข้อมูล ไม่ใช่ตลาดสดและไม่ใช่ผล backtest การผ่าน numeric/UI QA ไม่ได้พิสูจน์กลยุทธ์ทำกำไร
