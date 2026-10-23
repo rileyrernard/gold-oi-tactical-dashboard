@@ -1,0 +1,6 @@
+interface:
+  display_name: "Gold OI Tactical Dashboard"
+  short_description: "Analyze Gold OI and produce an interactive HTML dashboard."
+  default_prompt: "Use $gold-oi-tactical-dashboard with supplied Gold options CSVs and price/source context, or authorized live tabs when integrations are available. Validate inputs, analyze Thai positioning and scenarios, and verify the standalone Plotly dashboard. Write Google Sheets only when requested and authorized, with readback."
+policy:
+  allow_implicit_invocation: false

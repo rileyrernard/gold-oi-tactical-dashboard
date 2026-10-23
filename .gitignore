@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+credentials*.json
+token*.json
+telegram*.json
+service-account*.json
+.agents/
+.claude/
+runs/
+.gold-oi-runs/
+*.html.tmp
+.DS_Store
+Thumbs.db
