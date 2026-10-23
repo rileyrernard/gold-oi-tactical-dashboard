@@ -2,6 +2,10 @@
 
 **Armriley** · Agent skill + Python/Plotly · ภาษาไทย · Version 1.0.0
 
+[![Python renderer and installer](https://github.com/rileyrernard/gold-oi-tactical-dashboard/actions/workflows/test.yml/badge.svg)](https://github.com/rileyrernard/gold-oi-tactical-dashboard/actions/workflows/test.yml)
+
+[สไลด์ Canva 28 หน้า — เปิดดูสาธารณะ](https://canva.link/aa12h38et04fwko) · [บทผู้สอน 60 นาที](teaching/TEACHER-GUIDE-TH.md)
+
 อ่าน Gold **options** OI, OI Change และ Volume ร่วมกับกราฟราคา แล้วสร้าง `dashboard.html` ที่ฝังข้อมูลและ Plotly ในไฟล์เดียว มี Top 15 Call/Put, strike explorer, Level Map, Positioning และ Swing scenarios
 
 ## เริ่มที่นี่

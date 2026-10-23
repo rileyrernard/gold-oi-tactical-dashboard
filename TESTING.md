@@ -15,7 +15,12 @@
 
 - [Run 39905809982](https://github.com/rileyrernard/gold-oi-tactical-dashboard/actions/runs/39905809982) passed all six combinations of Ubuntu, Windows and macOS with Python 3.11 and 3.13 at commit `9c18198`.
 - CI checks dependency installation, `pip check`, renderer regressions/smoke and distribution tests. This confirms the Python package tests on those runners, not a live agent or browser/Sheets workflow.
-- The workflow action versions were then updated to Node 24-compatible versions; check the Actions tab for the result on the latest commit.
+- [Run 39906065804](https://github.com/rileyrernard/gold-oi-tactical-dashboard/actions/runs/39906065804) also passed all six jobs at commit `a1813bb`, after updating to Node 24-compatible action versions.
+
+## Canva publication
+
+- Approved draft edits on pages 3, 5, 9, 10, 22, 23 and 28 were committed and their rendered previews inspected.
+- [Public view link](https://canva.link/aa12h38et04fwko) created on 2026-10-23. Canva reports Live and anyone with the link can view without signing in; the public viewer opens 28 slides. The owner original remains separate from view-only access.
 
 ## Not established by these tests
 
